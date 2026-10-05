@@ -993,7 +993,7 @@
 			repositoryURL = "https://github.com/rg8tv2gc29-tech/Alamofire";
 			requirement = {
 				kind = revision;
-				revision = 8a974e1e0961fe3134df593e2d7d67db3d4c2ad3;
+				revision = 3ea8e93ec37a3ae5f255afb529ef20f438dd1903;
 			};
 		};
 		06F27D0118E563FFCFE1CB22 /* XCRemoteSwiftPackageReference "swift-collections" */ = {
