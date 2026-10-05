@@ -10,6 +10,6 @@
 		<string>$(PRODUCT_MODULE_NAME).NotificationService</string>
 	</dict>
 	<key>OneSignal_app_groups_key</key>
-	<string>group.com.studlink.proof.onesignal</string>
+	<string>group.com.studlink.proof.onesignal.n62</string>
 </dict>
 </plist>
